@@ -201,3 +201,14 @@
         }
     }
     }
+    @media only screen and (max-width:880px) {
+        .main{
+            .collection{
+                .section{
+                    .box1{
+                        margin-top: -10px;
+                    }
+                }
+            }
+        }
+    }
